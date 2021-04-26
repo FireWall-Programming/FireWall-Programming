@@ -4,4 +4,7 @@
 _______________
 | VB          |
 | python      |
+_______________
+Right now my current project is [REDACTED]
+I'm learning finacial things on YouTube
 
